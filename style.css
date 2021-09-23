@@ -1,0 +1,42 @@
+
+h1 {
+  color: #FF1654;
+  font-size: 50px;
+  background-color: #D89A9E; 
+  padding: 30px;
+  
+}
+
+h3 {
+  color: #1E2019;
+  font-size: 25px;
+}
+
+.body-content {
+  background-color: #F7CE5B;
+  display: flex; 
+  align-items: center;
+  flex-direction: column;
+}
+
+.box-content {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.box-one {
+  background-color: #B2DBBF; 
+  color: #254441;
+  padding: 10px;
+  width: 40%;
+}
+
+.box-two { 
+  background-color:#BFDCED;
+  color: #254441; 
+  padding: 10px;
+  width: 40%;
+}
